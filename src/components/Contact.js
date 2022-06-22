@@ -55,14 +55,6 @@ export default function Contact() {
                 <a className="text-indigo-400 leading-relaxed">
                   <a href="mailto:jon.walsh406@gmail.com">jon.walsh406@gmail.com</a>
                 </a>
-                <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
-                  LinkedIn
-                </h2>
-                <h2>
-                <a className="text-indigo-400 leading-relaxed">
-                  <a href="https://www.linkedin.com/in/jonathan-walsh01/"></a>
-                </a>
-                </h2>
               </div>
             </div>
           </div>

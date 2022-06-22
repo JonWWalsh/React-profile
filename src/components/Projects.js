@@ -12,7 +12,7 @@ export default function Projects() {
             Apps I've Built
           </h1>
           <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-            Here is a collection of projects I've created using JavaScript & React.
+            Here is a collection of projects I've created using JavaScript & React.js. <br></br> Projects with C++ and other works can be found in my GitHub page. <br></br> This page was created using React.js and Typescript.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

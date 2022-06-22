@@ -3,7 +3,7 @@ export const projects = [
       title: "Form Validation",
       subtitle: "Javascript and CSS",
       description:
-        "A simple form validator for signing up/logging in to an app.",
+        "A simple form validator for signing up/logging in to an app.  Fully mobile friendly.",
       image: "image/FormValidation.png",
       link: "https://github.com/JonWWalsh/form-validator",
     },
